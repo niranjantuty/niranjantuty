@@ -1,6 +1,14 @@
-### Hi there 👋
-
+![Niranjan's github stats](https://github-readme-stats.vercel.app/api?username=niranjantuty&hide=stars&count_private=true&show_icons=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjantuty&layout=compact)
 <!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 **niranjantuty/niranjantuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
